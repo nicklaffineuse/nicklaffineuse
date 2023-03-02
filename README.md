@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nicklaffineuse
-- 👀 I’m interested in digital signal processing, integrated systems, and coding in general!
-- 🌱 I’m currently studying Electircal Engineering
-- 💞️ I’m looking to collaborate on projects involving digital signal processing for musical instruments
+- 👀 I’m interested in digital signal processing, embedded processing, and machine learning!
+- 🌱 I have a degree in Electrical Engineering and work as a Mixed Signal Verification Engineer
 - 📫 Reach me at nicklaffineuse@gmail.com
 
 <!---
